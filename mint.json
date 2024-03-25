@@ -81,7 +81,8 @@
     {
       "group": "Chains",
       "pages": [
-        "chains/overview"
+        "chains/overview",
+        "chains/bitcoin/overview"
       ]
     },
     {
