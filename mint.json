@@ -79,14 +79,24 @@
       ]
     },
     {
-      "group": "Chains",
+      "group": "Supported Chains",
       "pages": [
         "chains/overview",
-        "chains/bitcoin/overview",
+      ]
+    },
+        {
+      "group": "EVM Chains",
+      "pages": [
         "chains/ethereum/overview",
-        "chains/solana/overview",
         "chains/base/overview",
         "chains/optimism/overview"
+      ]
+    },
+        {
+      "group": "Non-EVM Chains",
+      "pages": [
+        "chains/bitcoin/overview",
+        "chains/solana/overview"
       ]
     },
     {
