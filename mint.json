@@ -82,7 +82,7 @@
         {
       "group": "EVM Chains",
       "pages": [
-        "chains/ethereum/overview",
+        "chains/ethereum/",
         "chains/base/overview",
         "chains/optimism/overview"
       ]
