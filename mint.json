@@ -82,7 +82,11 @@
       "group": "Chains",
       "pages": [
         "chains/overview",
-        "chains/bitcoin/overview"
+        "chains/bitcoin/overview",
+        "chains/ethereum/overview",
+        "chains/solana/overview",
+        "chains/base/overview",
+        "chains/optimism/overview"
       ]
     },
     {
