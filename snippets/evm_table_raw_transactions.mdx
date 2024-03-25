@@ -1,0 +1,10 @@
+Transactions, which change the state of the EVM, need to be broadcast to the whole network. Any node can broadcast a request for a transaction to be executed on the EVM; after this happens, a validator will execute the transaction and propagate the resulting state change to the rest of the network.
+
+## Table Columns
+
+| Column Name | Description |
+| --- | ---|
+| block_number | The length of the chain, in blocks.|
+| block_timestamp | The time when the block that contains this transaction was included on the blockchain|
+| block_hash | Unique identifier of the block that includes this transaction.|
+
